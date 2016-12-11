@@ -267,7 +267,7 @@ Pre-compile xgboost (here aligned to [PR1855](https://github.com/dmlc/xgboost/pu
 
 ```bash
 cd c:/xgboost
-git clone --recursive https://github.com/Laurae2/Laurae
+git clone --recursive https://github.com/Laurae2/xgboost
 cd xgboost
 git submodule init
 git submodule update
